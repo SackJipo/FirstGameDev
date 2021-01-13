@@ -736,3 +736,330 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.13-13.10.34:096][290]LogConcert: Display: Synced activity '2' produced by endpoint '6DCE07C948FF0F8DEF5A1898224B1642': jacks discarded changes to package /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.
 [2021.01.13-13.10.34:122][293]LogPlayLevel: Display: Destroying online subsystem :Context_3
 [2021.01.13-13.10.42:799][333]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2021.01.13-13.19.48:204][ 45]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.13-13.19.48:208][ 45]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.13-13.19.54:871][795]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.13-13.19.54:875][795]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.13-13.27.52:749][705]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.13-13.27.52:752][705]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.13-13.27.57:048][206]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.13-13.27.57:060][206]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.13-13.27.57:060][206]PIE: New page: PIE session: TopDownExampleMap (13 Jan 2021, 13:27:57)
+[2021.01.13-13.27.57:060][206]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.01.13-13.27.57:070][206]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009730s)
+[2021.01.13-13.27.57:071][206]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.01.13-13.27.57:071][206]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019D67E44E00), frame # 60206
+[2021.01.13-13.27.57:071][206]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019D37DEAC00), frame # 60206
+[2021.01.13-13.27.57:071][206]LogPlayLevel: PIE: World Init took: (0.000954s)
+[2021.01.13-13.27.57:071][206]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.010781s)
+[2021.01.13-13.27.57:081][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.01.13-13.27.57:084][206]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.13-13.27.57:084][206]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.13-13.27.57:084][206]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.13-13.27.57:084][206]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.13-13.27.57:084][206]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.13-13.27.57:084][206]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.13-13.27.57:084][206]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.13-13.27.57:084][206]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.13-13.27.57:085][206]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.13-13.27.57:085][206]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.13-13.27.57:090][206]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.13-13.27.57:090][206]LogAudioMixer: Display: 1: FrontRight
+[2021.01.13-13.27.57:103][206]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Quadcast)
+[2021.01.13-13.27.57:103][206]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.13-13.27.57:103][206]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.13-13.27.57:103][206]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.13-13.27.57:103][206]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.13-13.27.57:117][206]LogInit: FAudioDevice initialized.
+[2021.01.13-13.27.57:126][206]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.01.13-13.27.57:128][206]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.01.13-13.27.57
+[2021.01.13-13.27.57:128][206]LogWorld: Bringing up level for play took: 0.001287
+[2021.01.13-13.27.57:128][206]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.01.13-13.27.57:130][206]PIE: Server logged in
+[2021.01.13-13.27.57:130][206]PIE: Play in editor total start time 0.071 seconds.
+[2021.01.13-13.30.31:870][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.13-13.30.31:870][362]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.01.13-13.30.31:870][362]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.13-13.30.31:870][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.13-13.30.31:880][362]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.13-13.30.31:881][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.13-13.30.31:904][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.13-13.30.31:905][362]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019D37DEAC00), frame # 77362
+[2021.01.13-13.30.31:905][362]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019D67E44E00), frame # 77362
+[2021.01.13-13.30.31:906][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.01.13-13.30.31:928][363]LogConcert: Display: Synced activity '3' produced by endpoint '6DCE07C948FF0F8DEF5A1898224B1642': jacks discarded changes to package /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.
+[2021.01.13-13.30.31:943][364]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.01.13-13.30.43:786][782]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.13-13.30.44:160][823]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.13-13.30.51:318][667]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2021.01.13-13.30.52:557][807]LogSlate: Took 0.005083 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.01.13-13.31.08:720][709]LogConcert: Display: Synced activity '4' produced by endpoint '6DCE07C948FF0F8DEF5A1898224B1642': jacks modified TopDownCharacter.CharMoveComp in /Game/TopDownBP/Maps/TopDownExampleMap.
+[2021.01.13-13.31.10:219][884]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.13-13.31.10:231][884]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.13-13.31.10:231][884]PIE: New page: PIE session: TopDownExampleMap (13 Jan 2021, 13:31:10)
+[2021.01.13-13.31.10:269][884]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.01.13-13.31.10:279][884]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010021s)
+[2021.01.13-13.31.10:280][884]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.01.13-13.31.10:280][884]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019D279B1400), frame # 81884
+[2021.01.13-13.31.10:281][884]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019D37BA0400), frame # 81884
+[2021.01.13-13.31.10:281][884]LogPlayLevel: PIE: World Init took: (0.001595s)
+[2021.01.13-13.31.10:281][884]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.011750s)
+[2021.01.13-13.31.10:291][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.13-13.31.10:294][884]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.13-13.31.10:294][884]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.13-13.31.10:294][884]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.13-13.31.10:294][884]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.13-13.31.10:294][884]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.13-13.31.10:294][884]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.13-13.31.10:294][884]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.13-13.31.10:294][884]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.13-13.31.10:294][884]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.13-13.31.10:294][884]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.13-13.31.10:298][884]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.13-13.31.10:298][884]LogAudioMixer: Display: 1: FrontRight
+[2021.01.13-13.31.10:311][884]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Quadcast)
+[2021.01.13-13.31.10:312][884]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.13-13.31.10:312][884]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.13-13.31.10:312][884]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.13-13.31.10:312][884]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.13-13.31.10:325][884]LogInit: FAudioDevice initialized.
+[2021.01.13-13.31.10:333][884]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.01.13-13.31.10:334][884]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.01.13-13.31.10
+[2021.01.13-13.31.10:335][884]LogWorld: Bringing up level for play took: 0.001223
+[2021.01.13-13.31.10:335][884]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.01.13-13.31.10:336][884]PIE: Server logged in
+[2021.01.13-13.31.10:337][884]PIE: Play in editor total start time 0.106 seconds.
+[2021.01.13-13.31.20:500][ 58]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.13-13.31.20:500][ 58]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.01.13-13.31.20:500][ 58]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.13-13.31.20:500][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.13-13.31.20:509][ 58]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.13-13.31.20:510][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.13-13.31.20:532][ 58]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.13-13.31.20:532][ 58]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019D37BA0400), frame # 83058
+[2021.01.13-13.31.20:532][ 58]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019D279B1400), frame # 83058
+[2021.01.13-13.31.20:533][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.01.13-13.31.20:553][ 59]LogConcert: Display: Synced activity '5' produced by endpoint '6DCE07C948FF0F8DEF5A1898224B1642': jacks discarded changes to package /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.
+[2021.01.13-13.31.20:580][ 62]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.01.13-13.31.22:005][230]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2021.01.13-13.31.28:392][963]LogConcert: Display: Synced activity '6' produced by endpoint '6DCE07C948FF0F8DEF5A1898224B1642': jacks modified TopDownCharacter.CharMoveComp in /Game/TopDownBP/Maps/TopDownExampleMap.
+[2021.01.13-13.31.36:041][875]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.13-13.31.36:880][972]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2021.01.13-13.31.37:421][ 31]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2021.01.13-13.31.38:581][162]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.13-13.31.38:590][162]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.13-13.31.38:590][162]PIE: New page: PIE session: TopDownExampleMap (13 Jan 2021, 13:31:38)
+[2021.01.13-13.31.38:590][162]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.01.13-13.31.38:603][162]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012973s)
+[2021.01.13-13.31.38:604][162]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.01.13-13.31.38:604][162]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019D382BAA00), frame # 85162
+[2021.01.13-13.31.38:604][162]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019D4238E980), frame # 85162
+[2021.01.13-13.31.38:604][162]LogPlayLevel: PIE: World Init took: (0.001078s)
+[2021.01.13-13.31.38:604][162]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.014197s)
+[2021.01.13-13.31.38:617][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.01.13-13.31.38:619][162]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.13-13.31.38:619][162]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.13-13.31.38:619][162]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.13-13.31.38:619][162]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.13-13.31.38:619][162]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.13-13.31.38:619][162]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.13-13.31.38:619][162]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.13-13.31.38:619][162]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.13-13.31.38:620][162]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.13-13.31.38:620][162]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.13-13.31.38:624][162]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.13-13.31.38:624][162]LogAudioMixer: Display: 1: FrontRight
+[2021.01.13-13.31.38:639][162]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Quadcast)
+[2021.01.13-13.31.38:639][162]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.13-13.31.38:639][162]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.13-13.31.38:639][162]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.13-13.31.38:640][162]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.13-13.31.38:650][162]LogInit: FAudioDevice initialized.
+[2021.01.13-13.31.38:659][162]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.01.13-13.31.38:661][162]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.01.13-13.31.38
+[2021.01.13-13.31.38:661][162]LogWorld: Bringing up level for play took: 0.001331
+[2021.01.13-13.31.38:661][162]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.01.13-13.31.38:663][162]PIE: Server logged in
+[2021.01.13-13.31.38:663][162]PIE: Play in editor total start time 0.074 seconds.
+[2021.01.13-13.31.43:970][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.13-13.31.43:970][770]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.01.13-13.31.43:970][770]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.13-13.31.43:970][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.13-13.31.43:978][770]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.13-13.31.43:979][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.13-13.31.44:002][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.13-13.31.44:003][770]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019D4238E980), frame # 85770
+[2021.01.13-13.31.44:003][770]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019D382BAA00), frame # 85770
+[2021.01.13-13.31.44:004][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.01.13-13.31.44:023][771]LogConcert: Display: Synced activity '7' produced by endpoint '6DCE07C948FF0F8DEF5A1898224B1642': jacks discarded changes to package /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.
+[2021.01.13-13.31.44:044][773]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.01.13-13.31.46:182][ 25]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.13-13.31.46:763][ 90]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2021.01.13-13.32.14:152][310]LogConcert: Display: Synced activity '8' produced by endpoint '6DCE07C948FF0F8DEF5A1898224B1642': jacks modified TopDownCharacter in /Game/TopDownBP/Maps/TopDownExampleMap.
+[2021.01.13-13.32.17:765][733]LogConcert: Display: Synced activity '9' produced by endpoint '6DCE07C948FF0F8DEF5A1898224B1642': jacks modified TopDownCharacter in /Game/TopDownBP/Maps/TopDownExampleMap.
+[2021.01.13-13.32.23:443][389]LogConcert: Display: Synced activity '10' produced by endpoint '6DCE07C948FF0F8DEF5A1898224B1642': jacks modified TopDownCharacter in /Game/TopDownBP/Maps/TopDownExampleMap.
+[2021.01.13-13.32.27:500][860]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.13-13.32.27:510][860]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.13-13.32.27:510][860]PIE: New page: PIE session: TopDownExampleMap (13 Jan 2021, 13:32:27)
+[2021.01.13-13.32.27:510][860]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.01.13-13.32.27:519][860]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008290s)
+[2021.01.13-13.32.27:520][860]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.01.13-13.32.27:520][860]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019D324AD200), frame # 90860
+[2021.01.13-13.32.27:520][860]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019D37DB51C0), frame # 90860
+[2021.01.13-13.32.27:520][860]LogPlayLevel: PIE: World Init took: (0.000951s)
+[2021.01.13-13.32.27:520][860]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.009337s)
+[2021.01.13-13.32.27:529][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.01.13-13.32.27:533][860]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.13-13.32.27:533][860]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.13-13.32.27:533][860]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.13-13.32.27:533][860]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.13-13.32.27:533][860]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.13-13.32.27:533][860]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.13-13.32.27:533][860]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.13-13.32.27:533][860]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.13-13.32.27:533][860]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.13-13.32.27:534][860]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.13-13.32.27:537][860]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.13-13.32.27:537][860]LogAudioMixer: Display: 1: FrontRight
+[2021.01.13-13.32.27:550][860]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Quadcast)
+[2021.01.13-13.32.27:550][860]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.13-13.32.27:550][860]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.13-13.32.27:550][860]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.13-13.32.27:551][860]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.13-13.32.27:564][860]LogInit: FAudioDevice initialized.
+[2021.01.13-13.32.27:569][860]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.01.13-13.32.27:571][860]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.01.13-13.32.27
+[2021.01.13-13.32.27:571][860]LogWorld: Bringing up level for play took: 0.001156
+[2021.01.13-13.32.27:571][860]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.01.13-13.32.27:572][860]PIE: Server logged in
+[2021.01.13-13.32.27:573][860]PIE: Play in editor total start time 0.064 seconds.
+[2021.01.13-13.32.34:749][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.13-13.32.34:749][693]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.01.13-13.32.34:749][693]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.13-13.32.34:750][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.13-13.32.34:758][693]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.13-13.32.34:759][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.13-13.32.34:782][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.13-13.32.34:783][693]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019D37DB51C0), frame # 91693
+[2021.01.13-13.32.34:783][693]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019D324AD200), frame # 91693
+[2021.01.13-13.32.34:783][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.01.13-13.32.34:804][694]LogConcert: Display: Synced activity '11' produced by endpoint '6DCE07C948FF0F8DEF5A1898224B1642': jacks discarded changes to package /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.
+[2021.01.13-13.32.34:838][696]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.01.13-13.32.38:893][182]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2021.01.13-13.32.50:220][484]LogConcert: Display: Synced activity '12' produced by endpoint '6DCE07C948FF0F8DEF5A1898224B1642': jacks modified TopDownCharacter in /Game/TopDownBP/Maps/TopDownExampleMap.
+[2021.01.13-13.32.53:646][870]LogConcert: Display: Synced activity '13' produced by endpoint '6DCE07C948FF0F8DEF5A1898224B1642': jacks modified TopDownCharacter in /Game/TopDownBP/Maps/TopDownExampleMap.
+[2021.01.13-13.33.08:470][574]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.13-13.33.08:480][574]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.13-13.33.08:480][574]PIE: New page: PIE session: TopDownExampleMap (13 Jan 2021, 13:33:08)
+[2021.01.13-13.33.08:480][574]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.01.13-13.33.08:489][574]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008605s)
+[2021.01.13-13.33.08:490][574]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.01.13-13.33.08:490][574]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019D67E46800), frame # 95574
+[2021.01.13-13.33.08:490][574]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019D67CE1BC0), frame # 95574
+[2021.01.13-13.33.08:490][574]LogPlayLevel: PIE: World Init took: (0.000952s)
+[2021.01.13-13.33.08:490][574]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.009649s)
+[2021.01.13-13.33.08:505][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.01.13-13.33.08:508][574]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.13-13.33.08:508][574]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.13-13.33.08:508][574]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.13-13.33.08:508][574]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.13-13.33.08:508][574]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.13-13.33.08:508][574]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.13-13.33.08:508][574]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.13-13.33.08:508][574]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.13-13.33.08:508][574]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.13-13.33.08:508][574]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.13-13.33.08:512][574]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.13-13.33.08:512][574]LogAudioMixer: Display: 1: FrontRight
+[2021.01.13-13.33.08:523][574]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Quadcast)
+[2021.01.13-13.33.08:523][574]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.13-13.33.08:523][574]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.13-13.33.08:523][574]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.13-13.33.08:523][574]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.13-13.33.08:534][574]LogInit: FAudioDevice initialized.
+[2021.01.13-13.33.08:543][574]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.01.13-13.33.08:545][574]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.01.13-13.33.08
+[2021.01.13-13.33.08:546][574]LogWorld: Bringing up level for play took: 0.002046
+[2021.01.13-13.33.08:546][574]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.01.13-13.33.08:547][574]PIE: Server logged in
+[2021.01.13-13.33.08:548][574]PIE: Play in editor total start time 0.069 seconds.
+[2021.01.13-13.33.12:440][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.13-13.33.12:440][  8]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.01.13-13.33.12:440][  8]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.13-13.33.12:440][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.13-13.33.12:449][  8]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.13-13.33.12:450][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.13-13.33.12:473][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.13-13.33.12:474][  8]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019D67E46800), frame # 96008
+[2021.01.13-13.33.12:474][  8]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019D67CE1BC0), frame # 96008
+[2021.01.13-13.33.12:475][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.01.13-13.33.12:494][  9]LogConcert: Display: Synced activity '14' produced by endpoint '6DCE07C948FF0F8DEF5A1898224B1642': jacks discarded changes to package /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.
+[2021.01.13-13.33.12:509][ 10]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.01.13-13.33.14:720][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.13-13.33.16:465][475]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2021.01.13-13.33.19:831][854]LogConcert: Display: Synced activity '15' produced by endpoint '6DCE07C948FF0F8DEF5A1898224B1642': jacks modified TopDownCharacter in /Game/TopDownBP/Maps/TopDownExampleMap.
+[2021.01.13-13.33.25:333][488]LogConcert: Display: Synced activity '16' produced by endpoint '6DCE07C948FF0F8DEF5A1898224B1642': jacks modified TopDownCharacter in /Game/TopDownBP/Maps/TopDownExampleMap.
+[2021.01.13-13.33.29:314][939]LogConcert: Display: Synced activity '17' produced by endpoint '6DCE07C948FF0F8DEF5A1898224B1642': jacks modified TopDownCharacter in /Game/TopDownBP/Maps/TopDownExampleMap.
+[2021.01.13-13.33.31:518][197]LogConcert: Display: Synced activity '18' produced by endpoint '6DCE07C948FF0F8DEF5A1898224B1642': jacks modified TopDownCharacter in /Game/TopDownBP/Maps/TopDownExampleMap.
+[2021.01.13-13.34.27:761][ 50]LogSlate: Window 'Save Asset As' being destroyed
+[2021.01.13-13.34.31:679][ 50]LogSlate: Window 'Message' being destroyed
+[2021.01.13-13.34.31:685][ 50]Message dialog closed, result: No, title: Message, text: An object [P_Fire] of class [ParticleSystem] already exists in file [/Game/StarterContent/Particles/P_Fire].  Do you want to replace the existing object?  If you click 'Yes', the existing object will be deleted.  Otherwise, click 'No' and choose a unique name for your new object.
+[2021.01.13-13.34.41:567][200]LogConcert: Display: Synced activity '19' produced by endpoint '6DCE07C948FF0F8DEF5A1898224B1642': jacks modified TopDownCharacter in /Game/TopDownBP/Maps/TopDownExampleMap.
+[2021.01.13-13.34.43:713][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.01.13-13.34.43:749][432]LogSavePackage: Moving 'D:/GitHub/FirstGameDev/MyProject2/Saved/TopDownExampleMap_Auto11E609564404A67EFA9BF6D9398DFF273.tmp' to 'D:/GitHub/FirstGameDev/MyProject2/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto1.umap'
+[2021.01.13-13.34.43:754][432]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.050
+[2021.01.13-13.34.43:754][432]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.050
+[2021.01.13-13.34.45:181][599]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.13-13.34.45:191][599]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.13-13.34.45:191][599]PIE: New page: PIE session: TopDownExampleMap (13 Jan 2021, 13:34:45)
+[2021.01.13-13.34.45:191][599]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.01.13-13.34.45:201][599]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009752s)
+[2021.01.13-13.34.45:202][599]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.01.13-13.34.45:202][599]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019D12E42A00), frame # 100599
+[2021.01.13-13.34.45:202][599]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019D67BAD940), frame # 100599
+[2021.01.13-13.34.45:202][599]LogPlayLevel: PIE: World Init took: (0.001303s)
+[2021.01.13-13.34.45:202][599]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.011172s)
+[2021.01.13-13.34.45:210][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.01.13-13.34.45:212][599]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.13-13.34.45:212][599]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.13-13.34.45:212][599]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.13-13.34.45:212][599]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.13-13.34.45:212][599]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.13-13.34.45:212][599]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.13-13.34.45:212][599]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.13-13.34.45:212][599]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.13-13.34.45:212][599]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.13-13.34.45:213][599]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.13-13.34.45:217][599]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.13-13.34.45:217][599]LogAudioMixer: Display: 1: FrontRight
+[2021.01.13-13.34.45:229][599]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Quadcast)
+[2021.01.13-13.34.45:230][599]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.13-13.34.45:230][599]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.13-13.34.45:230][599]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.13-13.34.45:230][599]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.13-13.34.45:244][599]LogInit: FAudioDevice initialized.
+[2021.01.13-13.34.45:248][599]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.01.13-13.34.45:249][599]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.01.13-13.34.45
+[2021.01.13-13.34.45:249][599]LogWorld: Bringing up level for play took: 0.001244
+[2021.01.13-13.34.45:250][599]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.01.13-13.34.45:251][599]PIE: Server logged in
+[2021.01.13-13.34.45:252][599]PIE: Play in editor total start time 0.061 seconds.
+[2021.01.13-13.34.51:939][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.13-13.34.51:939][339]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.01.13-13.34.51:939][339]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.13-13.34.51:940][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.13-13.34.51:950][339]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.13-13.34.51:951][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.13-13.34.51:977][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.13-13.34.51:978][339]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019D12E42A00), frame # 101339
+[2021.01.13-13.34.51:978][339]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019D67BAD940), frame # 101339
+[2021.01.13-13.34.51:978][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.01.13-13.34.51:998][340]LogConcert: Display: Synced activity '20' produced by endpoint '6DCE07C948FF0F8DEF5A1898224B1642': jacks discarded changes to package /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.
+[2021.01.13-13.34.52:026][343]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.01.13-13.34.52:973][456]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.13-13.34.57:816][  9]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2021.01.13-13.35.06:167][960]LogConcert: Display: Synced activity '21' produced by endpoint '6DCE07C948FF0F8DEF5A1898224B1642': jacks modified TopDownCharacter in /Game/TopDownBP/Maps/TopDownExampleMap.
+[2021.01.13-13.35.10:830][495]LogConcert: Display: Synced activity '22' produced by endpoint '6DCE07C948FF0F8DEF5A1898224B1642': jacks modified TopDownCharacter in /Game/TopDownBP/Maps/TopDownExampleMap.
+[2021.01.13-13.35.13:235][771]LogConcert: Display: Synced activity '23' produced by endpoint '6DCE07C948FF0F8DEF5A1898224B1642': jacks modified TopDownCharacter in /Game/TopDownBP/Maps/TopDownExampleMap.
+[2021.01.13-13.36.00:168][303]LogConcert: Display: Synced activity '24' produced by endpoint '6DCE07C948FF0F8DEF5A1898224B1642': jacks modified TopDownCharacter in /Game/TopDownBP/Maps/TopDownExampleMap.
+[2021.01.13-13.36.01:537][461]LogConcert: Display: Synced activity '25' produced by endpoint '6DCE07C948FF0F8DEF5A1898224B1642': jacks modified TopDownCharacter in /Game/TopDownBP/Maps/TopDownExampleMap.
